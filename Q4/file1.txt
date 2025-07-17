@@ -1,0 +1,1 @@
+This is a file for compress zip.This is some more content in file

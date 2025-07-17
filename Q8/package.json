@@ -1,0 +1,17 @@
+{
+  "name": "q8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "script1": "nodemon script1.js",
+    "script2": "nodemon script2.js",
+    "script3": "nodemon script3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
